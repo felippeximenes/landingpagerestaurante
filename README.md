@@ -1,4 +1,4 @@
-# Big Game Survey 
+# Landing Page Restaurante
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/felippeximenes/landingpagerestaurante/blob/main/LICENSE) 
 
 # Sobre o projeto
